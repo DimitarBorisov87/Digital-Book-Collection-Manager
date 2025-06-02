@@ -1,1 +1,1 @@
-# Digital-Book-Collection-Manager
+This simple app is a book tracker.
